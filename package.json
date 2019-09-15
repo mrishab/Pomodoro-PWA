@@ -1,0 +1,19 @@
+{
+  "name": "pomodoro-pwa",
+  "version": "1.0.0",
+  "description": "Pomodoro App for productivity and time tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrishab/Pomodoro-PWA.git"
+  },
+  "author": "Rishab Manocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrishab/Pomodoro-PWA/issues"
+  },
+  "homepage": "https://github.com/mrishab/Pomodoro-PWA#readme"
+}
